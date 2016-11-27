@@ -1,0 +1,2 @@
+# idea-path-Note
+note
